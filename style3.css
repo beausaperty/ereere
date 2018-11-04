@@ -1,0 +1,38 @@
+body{margin-left:20px;margin-right:20px; margin-top:15px;background-color:#F2F2F2;}
+table{border:1px solid gray;height:46px;border-spacing:0px;margin-left:100px;margin-top:15px;}
+img{border:1px solid gray;width:80px;height:32px;display:block;margin-left: auto;margin-right: auto;}
+td{padding: 0px;}
+tr{height:46px;}
+h1{margin:0;}
+a{width:80px;height:32px;}
+.search{display:inline-block; }
+.search2{text-align:center;}
+/* .search input[type=text],
+.search input[type=image] {vertical-align: middle;} */
+.search_btn{border:1px solid gray;height:22px;width:32px;margin-bottom:-8px;}
+.search_wdw{width: 265px;height:20px;background-color:#FFECEC;border:1px solid gray;}
+.search_btn_sz{padding-top:4px;}
+
+.er_btn{border:1px solid gray;}
+.er_btn_1{border:1px solid gray;height:32px;width:32px;}
+.er_btn_2{border:1px solid gray;height:32px;width:32px;}
+.er_btn_3{border:1px solid gray;height:32px;width:32px;}
+.er_btn_4{border:1px solid gray;height:32px;width:32px;}
+.er_btn_5{border:1px solid gray;height:32px;width:32px;}
+.er_btn_6{border:1px solid gray;height:32px;width:32px;}
+.er_btn_7{border:1px solid gray;height:32px;width:32px;}
+.er_btn_8{border:1px solid gray;height:32px;width:32px;}
+.er_btn_9{border:1px solid gray;height:32px;width:32px;}
+header{border:1px solid gray;}
+.upbar{padding:8px;}
+
+#
+*{box-sizing: border-box;}
+
+/* @media (max-width:599px){
+  .container .content{padding-left: 0;padding-right: 0;overflow: visible;}
+  .container .content>*{float: none;padding-bottom: 0;margin-bottom: 0;}
+  .container .content main{width: 100%;}
+  .container .content nav{width: auto;margin-left: 0;left: 0;position: relative;}
+  .container .content aside{width:auto;margin-right:0;}
+} */
